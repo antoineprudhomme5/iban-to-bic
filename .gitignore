@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+ibans.json
+ibans_with_bics.csv
+*.js
